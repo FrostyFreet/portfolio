@@ -1,0 +1,51 @@
+body{
+    background-color: #DDD0C8;
+    color:#323232;   
+}
+
+.introduction{
+color:black;
+}
+
+.name{
+    display: flex;
+    padding-top: 8%;
+}
+
+.frontend{
+    font-size: 25px;
+    margin-left:5%
+}
+
+.profile-img{
+    display: block;
+    border-radius: 100%;
+    width:125px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-link{
+    font-size: 1.15rem;
+    font-weight: bold;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.about-me{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 1%;
+}
+.pb-2{
+text-align: center;
+}
+
+#text-center{
+    margin-left: 46%;
+    margin-bottom:10px;
+   
+}
